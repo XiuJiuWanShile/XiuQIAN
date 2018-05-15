@@ -1,0 +1,33 @@
+数据库的创建
+
+User:	主键id：id(int)
+       	学号：stuno(int)
+        	昵称：nick(varchar)
+        	邮箱：email(varchar)
+        	电话：phone(int)
+        	头像：userphoto(int)
+        	签名：sign(varchar)
+
+Activity:    主键id：
+	活动名称：
+	活动简介：
+	参与人数：
+	开始时间：
+	结束时间：
+	参与者：
+
+Focus(关注表):
+	关注人员列表：
+
+Activity moudle（活动类型表）:
+	主键id:
+	活动类型：
+UserActivity（用户参加活动列表）:	
+	主键id：
+	参加的活动：
+	签到天数：
+
+				
+
+
+	
